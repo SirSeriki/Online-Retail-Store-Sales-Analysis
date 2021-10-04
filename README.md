@@ -26,7 +26,7 @@ Deliverables
 # Recommendations
 
 1.   Develop a loyalty program that offers monthly discounts to even out the discounts through the year. As there is a correlation between the between discount and an increase in sales.
-2. Use the data generated from the customer loyalty program to fine tune future analysis and a logistic  regression Machine Learning model to predict buyers most likely to make return purchases.
+2. Use the data generated from the customer loyalty program to fine tune future analysis and a support vector machine learning model to predict buyers most likely to make return purchases.
 3. Include a product rating system on the store's website, use the data from the rating system to guide a coupon recommendation system based on individual customer profiles and customer segments. 
 
 
